@@ -1,6 +1,6 @@
 # Working with Data Types
 
- 1. Use Properties Instead of Accessible Data Members
+ 1. [Use Properties Instead of Accessible Data Members](1.%20Working%20with%20Data%20Types/Rule%201/readme.md)
  2. Prefer Implicit Properties for Mutual Data
  3. Prefer Immutability for Value Types
  4. Distinguish Between Value Types and Reference Types
