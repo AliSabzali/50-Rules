@@ -1,4 +1,4 @@
-﻿using Rule_1.classes;
+﻿using Rule_1.Classes;
 using System;
 using System.Collections.Generic;
 using System.Drawing;

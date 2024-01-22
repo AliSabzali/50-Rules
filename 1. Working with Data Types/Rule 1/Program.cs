@@ -1,4 +1,4 @@
-﻿using Rule_1.classes;
+﻿using Rule_1.Classes;
 using Rule_1.Fruits;
 using System;
 using System.Collections.Generic;

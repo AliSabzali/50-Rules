@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Rule_1.classes
+namespace Rule_1.Classes
 {
     class Basket
     {
