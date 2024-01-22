@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Participate in the Globa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rule 1", "1. Working with Data Types\Rule 1\Rule 1.csproj", "{76038189-14D5-4A73-B0F9-99EE8697C651}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rule 2", "1. Working with Data Types\Rule 2\Rule 2.csproj", "{9B28445A-13B6-4DA7-98F5-2F060DE54043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,12 +29,17 @@ Global
 		{76038189-14D5-4A73-B0F9-99EE8697C651}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76038189-14D5-4A73-B0F9-99EE8697C651}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76038189-14D5-4A73-B0F9-99EE8697C651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B28445A-13B6-4DA7-98F5-2F060DE54043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B28445A-13B6-4DA7-98F5-2F060DE54043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B28445A-13B6-4DA7-98F5-2F060DE54043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B28445A-13B6-4DA7-98F5-2F060DE54043}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{76038189-14D5-4A73-B0F9-99EE8697C651} = {47E4F338-275B-4807-8927-710DBF4CBE75}
+		{9B28445A-13B6-4DA7-98F5-2F060DE54043} = {47E4F338-275B-4807-8927-710DBF4CBE75}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CC7BA542-ABB3-4C75-B1F1-9546B774AFF7}
